@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Assembly>D:\surajsoni_workspace\Revit-API\Revit-API\AddPanel\AddPanel\bin\Debug\AddPanel.dll</Assembly>
+		<FullClassName>AddPanel.CsAddPanel</FullClassName>
+		<ClientId>B8225D43-003A-4710-8F09-987EBE0916E9</ClientId>
+		<VendorId>RevitAddinWizard</VendorId>
+		<Name>RevitAddinCS1</Name>
+	</AddIn>
+</RevitAddIns>
